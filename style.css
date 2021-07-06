@@ -8,6 +8,7 @@ h1{
 }
 .flexeble_area{
     display: flex;
+    margin-bottom: 100px;
 }
 
 .heaf_width{
@@ -95,4 +96,40 @@ margin-left: 7%;
 
 .wraper{
     margin-left: 68px;
+}
+
+#social_area{
+ text-align: center;
+ border-radius: 15px;
+ width: 90%;
+ margin: 0 auto;
+ box-shadow: 10px 10px 70px gray;
+ margin-bottom: 80px;
+ 
+}
+
+.social{
+    margin: 0 auto;
+    padding: 10px 0px;
+}
+
+.social h2{
+    
+    font-size: 40px;
+}
+
+.footer{
+    height: 200px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.footer h2{
+    font-size: 25px;
+    color:grey
+}
+.footer span{
+    color:coral;
 }
