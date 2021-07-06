@@ -1,0 +1,98 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 50px;
+}
+.flexeble_area{
+    display: flex;
+}
+
+.heaf_width{
+width: 50%;
+margin-left: 7%;
+}
+
+.button{
+    text-decoration:none;
+    background-image: linear-gradient(red, orange);
+    padding: 10px 30px;
+    border-radius: 25px;
+    color: white;
+}
+
+.heaf_width img{
+    width: 100%;
+}
+.color_text{
+    color: chocolate;
+}
+
+
+
+.containar_bg{
+    background-image:url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+.image_setup{
+   
+    max-width: 79%;
+    padding-left: 85px;
+    
+}
+
+#contant_setup{
+    padding: 120px;
+}
+
+.my_recipies p{
+    width: 50%;
+    text-align: center;
+    margin: 0 auto; 
+}
+
+.my_recipies h2{
+    text-align: center;
+}
+
+.racepe{
+    
+    box-shadow: 10px 10px 70px gray;
+    border-radius: 20px;
+    
+}
+
+.racepe p{
+    padding-left: 15px;
+    width: 94%;
+    padding-bottom: 20px;
+}
+
+.racepe h2{
+    padding-left: 15px;
+}
+
+.racepe img{
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    padding-top: 14px;
+    padding-left: 16px;
+    
+}
+
+
+
+.width_one_thard{
+    width: 28%;
+    margin: 38px 20px;
+}
+
+.wraper{
+    margin-left: 68px;
+}
