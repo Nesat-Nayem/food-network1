@@ -31,8 +31,6 @@ margin-left: 7%;
     color: chocolate;
 }
 
-
-
 .containar_bg{
     background-image:url(images/shapes/7.png);
     background-repeat: no-repeat;
@@ -59,13 +57,13 @@ margin-left: 7%;
 
 .my_recipies h2{
     text-align: center;
+    font-size: 35px;
 }
 
 .racepe{
     
     box-shadow: 10px 10px 70px gray;
-    border-radius: 20px;
-    
+    border-radius: 20px;   
 }
 
 .racepe p{
@@ -86,8 +84,6 @@ margin-left: 7%;
     padding-left: 16px;
     
 }
-
-
 
 .width_one_thard{
     width: 28%;
@@ -117,11 +113,6 @@ margin-left: 7%;
     
     font-size: 40px;
 }
-
-
-
-
-
 
 .boxx-container{
     display: flex;
@@ -183,13 +174,6 @@ margin-left: 7%;
     top:0;
 }
 
-
-
-
-
-
-
-
 .order h1{
 text-align: center;
 }
@@ -219,8 +203,6 @@ text-align: center;
     height:240px;
 }
 
-
-
 .submit_btn{
     
     background-color: orange;
@@ -229,9 +211,6 @@ text-align: center;
     color: white;
     cursor: pointer;
 }
-
-
-
 
 .footer{
     height: 200px;
