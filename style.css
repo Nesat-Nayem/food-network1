@@ -118,6 +118,43 @@ margin-left: 7%;
     font-size: 40px;
 }
 
+
+
+\* order form*\
+.order h1{
+text-align: center;
+}
+
+.row form{
+    
+    background:#fff;
+    padding:32px;
+}
+
+.box{
+    padding:16px;
+    margin:16px 0;
+    font-size: 24px;
+    background:#f0f0f0;
+    width:97%;
+}
+
+.box::placeholder{
+    text-transform: capitalize;
+}
+
+.address{
+   
+    height:240px;
+}
+
+\* order form*\
+
+
+
+
+
+
 .footer{
     height: 200px;
     background-color: black;
